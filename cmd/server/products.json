@@ -1,0 +1,30 @@
+[
+ {
+  "id": 2,
+  "nombre": "Ingrhy2",
+  "tipo": "Hola",
+  "cantidad": 1,
+  "precio": 200
+ },
+ {
+  "id": 3,
+  "nombre": "Ingrhy",
+  "tipo": "Hola",
+  "cantidad": 1,
+  "precio": 200
+ },
+ {
+  "id": 4,
+  "nombre": "Ingrhy",
+  "tipo": "Hola",
+  "cantidad": 1,
+  "precio": 200
+ },
+ {
+  "id": 5,
+  "nombre": "Ingrhy",
+  "tipo": "Hola",
+  "cantidad": 1,
+  "precio": 200
+ }
+]
